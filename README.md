@@ -24,4 +24,28 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ChethanJD&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+<h2 align="center">📊 GitHub Contributions</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ChethanJD/github-snake/output/github-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ChethanJD/github-snake/output/github-snake.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/ChethanJD/github-snake/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
+</p>
+
+---
 [![](https://komarev.com/ghpvc/?username=ChethanJD&icon=4&color=10)](https://visitcount.itsvg.in)
