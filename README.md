@@ -10,6 +10,10 @@
 B.Tech Electronics and Communication Engineering student at Presidency University, Bengaluru — building full-stack web applications and picking up RTL/Verilog design along the way.
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=~/profile+%24+build+--ship;Full-Stack+Developer;Building+and+Shipping+Projects;Software+%2B+Engineering&amp;repeat=true" alt="Repeated typing animation">
+</p>
+
 ---
 
 ## Focus
