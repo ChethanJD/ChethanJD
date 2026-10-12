@@ -1,5 +1,4 @@
-```html
-<picture>
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
   <img src="./dark.svg" alt="Chethan JD — Software-first engineer, full-stack developer, ECE student building RTL and web projects">
@@ -44,23 +43,30 @@ Capstone project — computer vision + embedded detection system
 
 ## GitHub Activity
 
-![](https://github-readme-stats.shion.dev/api?username=ChethanJD&theme=rose&hide_border=false&include_all_commits=false&count_private=false)
+<p>
+  <img src="https://github-readme-stats.shion.dev/api?username=ChethanJD&amp;theme=rose&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="GitHub stats">
+</p>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ChethanJD&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ChethanJD&amp;theme=rose&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="Top languages">
+</p>
 
-![](https://streak-stats.demolab.com/?user=ChethanJD&theme=rose&hide_border=false)
+<p>
+  <img src="https://streak-stats.demolab.com/?user=ChethanJD&amp;theme=rose&amp;hide_border=false" alt="GitHub streak">
+</p>
 
 ## 🐍 Snake Eats My Contributions
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChethanJD/ChethanJD/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChethanJD/ChethanJD/output/github-snake.svg"/>
-    <img alt="Snake animation eating GitHub contributions" src="https://raw.githubusercontent.com/ChethanJD/ChethanJD/output/github-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChethanJD/ChethanJD/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChethanJD/ChethanJD/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/ChethanJD/ChethanJD/output/github-snake.svg" alt="Snake animation eating GitHub contributions">
   </picture>
 </div>
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chethanjd) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chethanjd2006@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ChethanJD)
-```
+<a href="https://linkedin.com/in/chethanjd"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:chethanjd2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&amp;logoColor=white" alt="Email"></a>
+<a href="https://github.com/ChethanJD"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&amp;logoColor=white" alt="GitHub"></a>
